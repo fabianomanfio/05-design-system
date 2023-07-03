@@ -1,0 +1,2 @@
+import{A as t}from"./index.8be47b4a.js";import"./index.dac1245e.js";import"./iframe.a718a2a7.js";import"./index.e774e701.js";import"./jsx-runtime.4089f822.js";const n={title:"Data display/Avatar",component:t,args:{src:"https://github.com/fabianomanfio.png",alt:"Fabiano Manfio"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},m=["Primary","WithFallback"];export{p as Primary,c as WithFallback,m as __namedExportsOrder,n as default};
+//# sourceMappingURL=Avatar.stories.5123c869.js.map
