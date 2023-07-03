@@ -7,5 +7,8 @@ export * from './components/TextInput';
 export * from './components/TextArea';
 export * from './components/Checkbox';
 export * from './components/MultiStep';
+export * from './components/TooltipClick';
+export * from './components/TooltipHover';
+export * from './components/Toast';
 
 export * from './styles';

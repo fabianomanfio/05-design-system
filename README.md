@@ -20,3 +20,10 @@
 4 - Na pasta react: execute o comando npm run build;
 5 - Na pasta docs: execute o comando npm install e em seguida npm run dev;
 Se tudo der certo o storybook deve abrir corretamente em seu navegador e você deve ver os seus componentes.
+
+# Instructions to publish git and npm
+1 - npm run changeset
+2 - npm run version-packages
+4 - git add .
+5 - git commit -m "code: description"
+6 - git push origin master

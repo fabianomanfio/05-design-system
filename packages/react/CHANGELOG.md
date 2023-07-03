@@ -1,5 +1,11 @@
 # @mws-ignite-ui/react
 
+## 3.0.0
+
+### Major Changes
+
+- Add components Tooltip and Toast
+
 ## 2.0.1
 
 ### Patch Changes
